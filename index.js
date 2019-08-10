@@ -1,6 +1,5 @@
 // write your code below!
 function happyHolidays {
-  var
   return "Happy Holidays!"
 }
 
